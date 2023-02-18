@@ -9,7 +9,7 @@ int main(){
     cin>>a>>b>>c;
     sum = a+b+c;
 
-    sum=sum+sample;
+    sum=sum-sample;
 
 
 
